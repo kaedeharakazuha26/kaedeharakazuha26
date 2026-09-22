@@ -149,7 +149,6 @@ A personal developer portfolio focused on presenting my skills, projects, experi
 
 ### 🖼️ Screenshot
 
-md
 ![Portfolio Screenshot](./screenshots/portfolio.png)
 
 
@@ -328,11 +327,8 @@ IT SUPPORT EXPERIENCE
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kaedeharakazuha26&show_icons=true&theme=dark&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedeharakazuha26&layout=compact&theme=dark&hide_border=true" height="170" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kaedeharakazuha26&show_icons=true&theme=dark&hide_border=true&cache_bust=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedeharakazuha26&layout=compact&theme=dark&hide_border=true&cache_bust=true" height="170" alt="Top Languages" />
 </p>
 
 ---
@@ -340,9 +336,7 @@ IT SUPPORT EXPERIENCE
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kaedeharakazuha26&theme=dark&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=kaedeharakazuha26&theme=dark&hide_border=true&cache_bust=true" alt="GitHub Streak" />
 </p>
 
 ---
