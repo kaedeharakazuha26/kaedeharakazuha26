@@ -149,9 +149,6 @@ A personal developer portfolio focused on presenting my skills, projects, experi
 
 ### 🖼️ Screenshot
 
-![Portfolio Screenshot](./screenshots/portfolio.png)
-
-
 ### 🔗 Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kaedeharakazuha26/portfolio-website)
