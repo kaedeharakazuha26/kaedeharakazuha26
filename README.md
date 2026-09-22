@@ -149,11 +149,9 @@ A personal developer portfolio focused on presenting my skills, projects, experi
 
 ### 🖼️ Screenshot
 
-```md
-<!-- Add your portfolio screenshot here -->
-
+md
 ![Portfolio Screenshot](./screenshots/portfolio.png)
-```
+
 
 ### 🔗 Links
 
