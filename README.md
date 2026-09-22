@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Jhomar John Picar
+# Hi, I'm Jhomar John Picar
 
 ### 💻 Full-Stack Web Developer in Progress 🚀
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm an IT professional with **7 years of experience in IT and technical support**, currently focusing my career on **Full-Stack Web Development**.
 
