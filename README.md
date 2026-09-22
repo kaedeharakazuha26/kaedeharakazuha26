@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Jhomar John Picar
 
-### 💻 Full-Stack Web Developer in Progress 🚀
+<img src="svg/svg.svg" alt="Jhomar John Picar Header Banner" width="100%" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=kaedeharakazuha26&label=Profile%20Views&color=00bcd4&style=flat" alt="Profile Views" />
-</p>
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=kaedeharakazuha26&label=Profile%20Views&color=00bcd4&style=flat" alt="Profile Views" />
 
 </div>
 
