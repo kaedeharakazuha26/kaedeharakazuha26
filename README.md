@@ -192,59 +192,6 @@ A personal developer portfolio focused on presenting my skills, projects, experi
 │                                               │
 └───────────────────────────────────────────────┘
 ```
-
----
-
-# 💼 Professional Experience
-
-## 🔧 Technical Support Representative
-
-**Telus International Philippines**  
-`Nov 2023 – Jun 2026`
-
-- 🔍 Identified, analyzed, and resolved software, application, and user access issues.
-- 📝 Accurately documented customer interactions, issue categories, and resolution steps in CRM systems.
-- 🧑‍💻 Guided users through technical troubleshooting and step-by-step solutions.
-- 📂 Assessed unresolved technical problems and escalated them to senior support or specialized departments.
-- 🧠 Developed strong troubleshooting and problem-solving skills that I now apply to software development.
-
----
-
-## 🖥️ Service Desk Analyst
-
-**DXC Technology (Philippines), Inc.**  
-`Jun 2019 – Aug 2022`
-
-- 🔧 Assisted users with computer hardware and software-related issues.
-- 📞 Handled incoming service requests and diagnosed underlying technical problems.
-- 🗂️ Categorized and recorded queries in system logs.
-- 💡 Provided appropriate solutions and recommended courses of action.
-- 🔄 Monitored issues from initial contact through resolution.
-- 🚀 Escalated unresolved issues to higher-level support teams when necessary.
-
----
-
-# 🎓 Education
-
-## Bachelor of Science in Information Technology
-
-**STI College**  
-`Oct 2014 – Nov 2018`
-
-### 📚 Core Curriculum
-
-- 🧮 Algorithms
-- 🧱 Data Structures
-- 🌐 Web Development
-- 🗄️ Database Management Systems
-- 🌐 Computer Networking
-
-### 💻 Practical Experience
-
-Developed software applications, wrote clean and scalable code, and worked with database structures through academic assignments and team projects.
-
----
-
 # 🧠 Core Skills
 
 | Category | Skills |
