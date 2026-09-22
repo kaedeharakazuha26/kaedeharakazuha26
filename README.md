@@ -237,37 +237,6 @@ IT SUPPORT EXPERIENCE
           🚀 FULL-STACK DEVELOPMENT
 ```
 
----
-
-# 🎯 Development Goals
-
-- 🚀 Become a professional **Full-Stack Web Developer**
-- 🌐 Build complete frontend and backend applications
-- 🗄️ Improve database design and management skills
-- 🔌 Build and consume RESTful APIs
-- ⚛️ Strengthen React.js development skills
-- 🟢 Improve Node.js backend development
-- 🧩 Build real-world projects
-- 📚 Continuously learn modern web development technologies
-- 💼 Build a strong portfolio of practical applications
-
----
-
-# 📌 Areas of Interest
-
-- 🌐 Full-Stack Web Development
-- ⚛️ React.js Development
-- 🟢 Node.js Development
-- 🐘 PHP & Laravel Development
-- 🔌 RESTful API Development
-- 🗄️ Database Development
-- 💻 Web Application Development
-- 🧩 Problem Solving
-- 🧠 Software Engineering Fundamentals
-- 🚀 Building Real-World Applications
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
