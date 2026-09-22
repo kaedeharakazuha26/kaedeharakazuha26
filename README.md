@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Jhomar John Picar
 
-### 💻 IT Professional • Full-Stack Development • Data Analytics
+### 💻 Full-Stack Web Developer in Progress 🚀
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00bcd4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kaedeharakazuha26&label=Profile%20Views&color=00bcd4&style=flat" alt="Profile Views" />
 </p>
 
 </div>
@@ -14,18 +14,20 @@
 
 ## 🧑‍💻 About Me
 
-I'm an analytical and detail-oriented IT professional with **7 years of experience in IT and technical support**, currently transitioning toward **Data Analytics and Full-Stack Development**.
+I'm an IT professional with **7 years of experience in IT and technical support**, currently focusing my career on **Full-Stack Web Development**.
 
-My experience includes troubleshooting software and hardware issues, handling technical support requests, managing tickets and data within CRM and ServiceNow environments, identifying root causes, and documenting solutions.
+My background in technical support has helped me develop strong problem-solving, troubleshooting, root-cause analysis, documentation, and communication skills. I'm now applying those skills to software development by building practical web applications and strengthening my knowledge of frontend, backend, databases, and APIs.
 
-I'm also continuously strengthening my development skills in **React.js, Node.js, Next.js, MongoDB, RESTful APIs, and database management** while building a stronger foundation in data analysis and software development.
+I'm continuously learning and improving my skills in modern web technologies while building projects that solve practical, real-world problems.
 
-- 🔭 Currently transitioning from **IT & Technical Support to Data Analytics**
-- 💻 Developing my skills in **Full-Stack Development**
-- 🗄️ Working with **databases, DBMS, and MongoDB**
-- 📊 Interested in **data analysis, trends, and actionable insights**
-- 🧩 Experienced in **technical troubleshooting and root-cause analysis**
-- 🎯 Goal: Build practical applications that combine **technology, data, and problem-solving**
+- 💻 Currently focusing on **Full-Stack Web Development**
+- 🌐 Building applications with **Frontend + Backend + Database**
+- ⚛️ Strengthening my **React.js** skills
+- 🟢 Developing backend applications using **Node.js**
+- 🗄️ Working with **MongoDB and database systems**
+- 🔌 Learning and building **RESTful APIs**
+- 🧠 Applying my IT troubleshooting experience to software development
+- 🚀 Goal: Become a professional **Full-Stack Web Developer**
 
 ---
 
@@ -35,8 +37,14 @@ I'm also continuously strengthening my development skills in **React.js, Node.js
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/REACT.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 
 </p>
 
@@ -47,8 +55,10 @@ I'm also continuously strengthening my development skills in **React.js, Node.js
 <p align="center">
 
 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/RESTFUL%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </p>
 
@@ -58,6 +68,7 @@ I'm also continuously strengthening my development skills in **React.js, Node.js
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=databricks&logoColor=white" />
 
@@ -65,43 +76,132 @@ I'm also continuously strengthening my development skills in **React.js, Node.js
 
 ---
 
-### 📊 Data & Analytics
+### 🧠 Programming Fundamentals
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/DATA%20ANALYSIS-1E88E5?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/DATA%20MANAGEMENT-00897B?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/ALGORITHMS-37474F?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/DATA%20STRUCTURES-455A64?style=for-the-badge&logo=buffer&logoColor=white" />
 
 </p>
 
 ---
 
-### 🖥️ IT Operations & Support
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SERVICENOW-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" />
-<img src="https://img.shields.io/badge/CRM-1976D2?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/TECHNICAL%20SUPPORT-455A64?style=for-the-badge&logo=opensourcehardware&logoColor=white" />
-
-</p>
-
----
-
-### 🧰 Tools
+### 🛠️ Tools & Development
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/SERVICENOW-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" />
 
 </p>
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Full-Stack Development
 
-### 🔧 Technical Support Representative
+```text
+                    FULL-STACK WEB DEVELOPMENT
+                              │
+             ┌────────────────┴────────────────┐
+             │                                 │
+          FRONTEND                           BACKEND
+             │                                 │
+       ┌─────┴─────┐                     ┌────┴─────┐
+       │           │                     │          │
+   JavaScript   React.js             Node.js    REST APIs
+       │           │                     │          │
+       └─────┬─────┘                     └────┬─────┘
+             │                                 │
+             └──────────────┬──────────────────┘
+                            │
+                         DATABASE
+                            │
+                     ┌──────┴──────┐
+                     │             │
+                  MySQL          MongoDB
+                     │             │
+                     └──────┬──────┘
+                            │
+                            ▼
+                    WEB APPLICATION 🚀
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🌐 Personal Portfolio
+
+**HTML • CSS • JavaScript**
+
+A personal developer portfolio focused on presenting my skills, projects, experience, and journey into Full-Stack Web Development.
+
+### ✨ Focus Areas
+
+- 🎨 Responsive web design
+- 💻 Developer portfolio
+- 🧩 Interactive UI
+- 📱 Responsive layouts
+- ⚡ JavaScript interactions
+- 🚀 Project showcase
+
+### 🖼️ Screenshot
+
+```md
+<!-- Add your portfolio screenshot here -->
+
+![Portfolio Screenshot](./screenshots/portfolio.png)
+```
+
+### 🔗 Links
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/kaedeharakazuha26/portfolio-website)
+
+[![Live Portfolio](https://img.shields.io/badge/Live-Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaedeharakazuha26.github.io/portfolio-website/)
+
+---
+
+# 📚 Currently Learning
+
+```text
+┌───────────────────────────────────────────────┐
+│             CURRENT LEARNING PATH             │
+├───────────────────────────────────────────────┤
+│                                               │
+│  🌐 Frontend Development                      │
+│     ├── HTML / CSS                            │
+│     ├── JavaScript                            │
+│     └── React.js                              │
+│                                               │
+│  ⚙️ Backend Development                       │
+│     ├── Node.js                               │
+│     ├── PHP                                   │
+│     └── Laravel                               │
+│                                               │
+│  🔌 API Development                           │
+│     └── RESTful APIs                          │
+│                                               │
+│  🗄️ Database Development                      │
+│     ├── MySQL                                 │
+│     └── MongoDB                               │
+│                                               │
+│  🧠 Programming Fundamentals                  │
+│     ├── Algorithms                            │
+│     └── Data Structures                       │
+│                                               │
+│  🚀 Full-Stack Application Development        │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+# 💼 Professional Experience
+
+## 🔧 Technical Support Representative
+
 **Telus International Philippines**  
 `Nov 2023 – Jun 2026`
 
@@ -109,31 +209,32 @@ I'm also continuously strengthening my development skills in **React.js, Node.js
 - 📝 Accurately documented customer interactions, issue categories, and resolution steps in CRM systems.
 - 🧑‍💻 Guided users through technical troubleshooting and step-by-step solutions.
 - 📂 Assessed unresolved technical problems and escalated them to senior support or specialized departments.
-- 📊 Maintained structured records of technical issues and resolutions.
+- 🧠 Developed strong troubleshooting and problem-solving skills that I now apply to software development.
 
 ---
 
-### 🖥️ Customer Service Representative
+## 🖥️ Service Desk Analyst
+
 **DXC Technology (Philippines), Inc.**  
 `Jun 2019 – Aug 2022`
 
 - 🔧 Assisted users with computer hardware and software-related issues.
 - 📞 Handled incoming service requests and diagnosed underlying technical problems.
 - 🗂️ Categorized and recorded queries in system logs.
-- 💡 Provided appropriate solutions and advised users on recommended courses of action.
+- 💡 Provided appropriate solutions and recommended courses of action.
 - 🔄 Monitored issues from initial contact through resolution.
 - 🚀 Escalated unresolved issues to higher-level support teams when necessary.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-### Bachelor of Science in Information Technology
+## Bachelor of Science in Information Technology
 
 **STI College**  
 `Oct 2014 – Nov 2018`
 
-#### Core Curriculum
+### 📚 Core Curriculum
 
 - 🧮 Algorithms
 - 🧱 Data Structures
@@ -141,52 +242,153 @@ I'm also continuously strengthening my development skills in **React.js, Node.js
 - 🗄️ Database Management Systems
 - 🌐 Computer Networking
 
-#### Practical Experience
+### 💻 Practical Experience
 
 Developed software applications, wrote clean and scalable code, and worked with database structures through academic assignments and team projects.
 
 ---
 
-## 🧠 Core Skills
-
-<p align="center">
+# 🧠 Core Skills
 
 | Category | Skills |
 | :--- | :--- |
-| 💻 IT Operations | ServiceNow, CRM, Technical Support |
-| 🔧 Troubleshooting | Hardware & Software Troubleshooting |
-| 🗂️ Data | Ticket & Data Management |
-| 📊 Analysis | Root-Cause Analysis, Data Trends |
-| 🌐 Development | React.js, Node.js, Next.js |
-| 🗄️ Database | MongoDB, DBMS |
+| 🌐 Frontend | HTML5, CSS3, JavaScript, React.js |
+| ⚙️ Backend | Node.js, PHP, Laravel |
 | 🔌 APIs | RESTful APIs |
-| 🛠️ Tools | Git, GitHub |
+| 🗄️ Database | MySQL, MongoDB, DBMS |
 | 🧮 Fundamentals | Algorithms, Data Structures |
-| 🌐 Infrastructure | Computer Networking |
+| 🛠️ Version Control | Git, GitHub |
+| 🔧 IT Support | Technical Troubleshooting |
+| 🧩 Problem Solving | Root-Cause Analysis |
+| 🌐 Networking | Computer Networking |
+| 🗂️ Systems | ServiceNow, CRM |
+
+---
+
+# 🔥 What I Bring From IT Support
+
+My transition into Full-Stack Development is built on years of solving technical problems.
+
+```text
+IT SUPPORT EXPERIENCE
+        │
+        ├── 🔍 Troubleshooting
+        │
+        ├── 🧠 Root-Cause Analysis
+        │
+        ├── 🧩 Problem Solving
+        │
+        ├── 📝 Documentation
+        │
+        ├── 🗂️ Data & Ticket Management
+        │
+        └── 💬 Technical Communication
+                    │
+                    ▼
+             SOFTWARE DEVELOPMENT
+                    │
+                    ├── 🌐 Frontend
+                    ├── ⚙️ Backend
+                    ├── 🗄️ Database
+                    └── 🔌 APIs
+                    │
+                    ▼
+          🚀 FULL-STACK DEVELOPMENT
+```
+
+---
+
+# 🎯 Development Goals
+
+- 🚀 Become a professional **Full-Stack Web Developer**
+- 🌐 Build complete frontend and backend applications
+- 🗄️ Improve database design and management skills
+- 🔌 Build and consume RESTful APIs
+- ⚛️ Strengthen React.js development skills
+- 🟢 Improve Node.js backend development
+- 🧩 Build real-world projects
+- 📚 Continuously learn modern web development technologies
+- 💼 Build a strong portfolio of practical applications
+
+---
+
+# 📌 Areas of Interest
+
+- 🌐 Full-Stack Web Development
+- ⚛️ React.js Development
+- 🟢 Node.js Development
+- 🐘 PHP & Laravel Development
+- 🔌 RESTful API Development
+- 🗄️ Database Development
+- 💻 Web Application Development
+- 🧩 Problem Solving
+- 🧠 Software Engineering Fundamentals
+- 🚀 Building Real-World Applications
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kaedeharakazuha26&show_icons=true&theme=dark&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaedeharakazuha26&layout=compact&theme=dark&hide_border=true" height="170" />
 
 </p>
 
 ---
 
-## 🚀 What I'm Working Toward
+# 🔥 GitHub Streak
 
-```text
-IT & Technical Support
-        │
-        ▼
-Technical Troubleshooting
-        │
-        ▼
-Data & Ticket Management
-        │
-        ▼
-Full-Stack Development
-        │
-        ▼
-Database & API Development
-        │
-        ▼
-Data Analytics
-        │
-        ▼
-Practical Data-Driven Applications 🚀
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kaedeharakazuha26&theme=dark&hide_border=true" />
+
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kaedeharakazuha26/kaedeharakazuha26/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:picar.jhomar@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-picar.jhomar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://kaedeharakazuha26.github.io/portfolio-website/">
+<img src="https://img.shields.io/badge/PORTFOLIO-Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+
+📍 Manila, National Capital Region, Philippines
+
+</p>
+
+---
+
+<div align="center">
+
+### 💻 Build. Learn. Solve. Repeat. 🚀
+
+**Thanks for visiting my GitHub profile!**
+
+</div>
