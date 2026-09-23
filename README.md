@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="svg/svg.svg" alt="Jhomar John Picar Header Banner" width="100%" />
+<img src="svg/svgv2.svg" alt="Jhomar John Picar Header Banner" width="100%" />
 
 <br />
 <br />
