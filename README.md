@@ -26,7 +26,6 @@ I'm continuously learning and improving my skills in modern web technologies whi
 - 🟢 Developing backend applications using **Node.js**
 - 🗄️ Working with **MongoDB and database systems**
 - 🔌 Learning and building **RESTful APIs**
-- 🧠 Applying my IT troubleshooting experience to software development
 - 🚀 Goal: Become a professional **Full-Stack Web Developer**
 
 ---
@@ -206,36 +205,6 @@ A personal developer portfolio focused on presenting my skills, projects, experi
 
 ---
 
-# 🔥 What I Bring From IT Support
-
-My transition into Full-Stack Development is built on years of solving technical problems.
-
-```text
-IT SUPPORT EXPERIENCE
-        │
-        ├── 🔍 Troubleshooting
-        │
-        ├── 🧠 Root-Cause Analysis
-        │
-        ├── 🧩 Problem Solving
-        │
-        ├── 📝 Documentation
-        │
-        ├── 🗂️ Data & Ticket Management
-        │
-        └── 💬 Technical Communication
-                    │
-                    ▼
-             SOFTWARE DEVELOPMENT
-                    │
-                    ├── 🌐 Frontend
-                    ├── ⚙️ Backend
-                    ├── 🗄️ Database
-                    └── 🔌 APIs
-                    │
-                    ▼
-          🚀 FULL-STACK DEVELOPMENT
-```
 
 # 📊 GitHub Stats
 
